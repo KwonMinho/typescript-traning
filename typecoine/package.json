@@ -1,0 +1,8 @@
+{
+  "name": "typecoine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KwonMinho/typescript-traning.git",
+  "author": "kwonminho <alsgh458@gmail.com>",
+  "license": "MIT"
+}
